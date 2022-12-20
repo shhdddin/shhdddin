@@ -137,21 +137,24 @@ In Future,  I wanna be a Full Stack Developer.
 </div>
  <!--- Portfolio/Website --->  
   
- <div align="center">
-<h1 align="center">
-    Practice Project
+ <article>
+
+  <h3>Practice Project</h3>
+  <ul>
+    <ul style="list-style-type:circle">
+				<li> <a href="https://github.com/shhddin/AutomationProject">Selenium Framework TDD (Java,Selenium,TestNg) </a> </li>
+				<li> <a href="https://github.com/shhddin/BDDlibertyMutual">Selenium Framework BDD (Java, Cucumber) </a> </li>
+				<li> <a href="https://github.com/shhddin/KarateFramework">Karate Framework</a> </li>
+      <li> <a href="https://github.com/shhddin/RestAssured">Rest Assured</a> </li>
+	
+		
+		
+  </article>
     
    
-  `TDD` -> <a href="https://github.com/shhddin/AutomationProject">`TDD code`</a>|
-  `Karate` -> <a href="https://github.com/shhddin/KarateFramework" target="_blank">`Karate code`</a>|
-  `Rest Assured` -> <a href="https://github.com/shhddin/RestAssured" target="_blank">`Rest Assured code`</a>
-  `BDD` -> <a href="https://github.com/shhddin/BDDlibertyMutual" target="_blank">`BDD code`</a>
-  
-   </br>
+   <h3 align="left">Do you want to be a QA Analyst???:</h3>
 
-  
-
-`Be a SQA` -> <a href="https://enthrallit.com/courses/" target="_blank">`Enthrallit`</a>|
+<h4> Be a SQA -> <a href="https://enthrallit.com/courses/" target="_blank">Click Here</a> </h4>
 
 
 
