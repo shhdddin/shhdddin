@@ -5,7 +5,8 @@
   <!-- You can use + symbol or %20 to give a space between words -->
 <!--  DS%20|%20Algorithms%20|%20OOP%20;  -->
 <h2 align="center">
-  <a href="https://mdyeamin.netlify.app/"><img src="https://readme-typing-svg.herokuapp.com?lines=Software%20QA+Automation+Engineer+;Functional+Tester+;API+Tester+;Embeded+Device+Tester;SQE+;Test+Analyst;&center=true&width=500&height=50"></a>
+	<!--https://mdyeamin.netlify.app/-->
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com?lines=Software%20QA+Automation+Engineer+;Functional+Tester+;API+Tester+;Embeded+Device+Tester;SQE+;Test+Analyst;&center=true&width=500&height=50"></a>
 </h2>
 </div>
 
