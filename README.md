@@ -153,9 +153,7 @@ In Future,  I wanna be a Full Stack Developer.
   </article>
     
    
-   <h3 align="left">Do you want to be a QA Analyst???:</h3>
-
-<h4> Be a SQA -> <a href="https://enthrallit.com/courses/" target="_blank">Click Here</a> </h4>
+  
 
 
 
